@@ -1,0 +1,33 @@
+p {
+  font-family: Lato;
+}
+td {
+  border: 1px solid black;
+}
+.header {
+  background-color: #15596b;
+  color: white;
+}
+.excel {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 15px;
+}
+.row {
+  background-color: coral;
+  color: black;
+}
+.table {
+  width: 80%;
+  margin-top: 20px;
+}
